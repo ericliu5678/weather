@@ -1,5 +1,5 @@
 # Weather React App
-
+![Capture](https://user-images.githubusercontent.com/5874898/162671687-d8130b25-6a58-4744-aebe-4fdee0ad4c61.JPG)
 Clone & install
 Clone this repo git clone https://github.com/ericliu5678/weather.git
 cd weather
